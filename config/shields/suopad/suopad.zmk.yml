@@ -1,10 +1,9 @@
 file_format: "1"
-id: suo
-name: Suo
+id: suopad
+name: Suopad
 type: shield
 url: https://todo
 requires:
   - rp2040_zero
 features:
   - keys
-  - encoder

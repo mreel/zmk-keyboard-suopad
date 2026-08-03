@@ -1,0 +1,5 @@
+if SHIELD_SUOPAD
+
+	config ZMK_KEYBOARD_NAME
+		default "Suopad"
+endif
